@@ -1,7 +1,7 @@
 ### Hi there  👋  My name is Josué H. Rodrigues
 
 - 📐  Engenheiro com formação técnica e profissionalizante
-- 🌱  Atualmente estou estudando Swift e buscando minha primeira oportunidade iOS mobile
+- 🌱  Atualmente estou estudando Swift e buscando minha primeira oportunidade como Desenvolvedor mobile iOS
 - 📫  Entre contato comigo através do E-mail: jo.sue.rodrigues@hotmail.com ou através do numero: (11) 98651-4199
 
 ##
